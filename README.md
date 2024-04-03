@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @vempr
-- 🌱 Currently learning React
+- 🌱 Currently learning React and TypeScript
 - 📚 Experience: Python, HTML/CSS/JavaScript
-
