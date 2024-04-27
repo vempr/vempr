@@ -8,9 +8,11 @@ I'm Alex, an individual who is aspiring to become a professional web developer.
 ## My Stack
 
 - **Languages**:
-Python, HTML, CSS, JavaScript, TypeScript
+Python, HTML, CSS, JavaScript
 - **Frontend Frameworks/Libraries**:
 React.js, Tailwind CSS
+- **Type Checking**:
+TypeScript, Zod
 - **State Management**:
 Redux Toolkit
 - **Visualisation**:
