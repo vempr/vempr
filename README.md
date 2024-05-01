@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Alex, an aspiriing web developer.
+# Hi there! 👋 I'm Alex, an aspiring web developer.
 
-I love to learn more about the world of web development and I hope to make it professionally one day. My webdev journey started in early February: It has been amazing to acquire new skills and build projects that I am passionate about. *Coming for you, backend!*
+I'm very passionate about learning more about web development and aspire to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects. *Coming for you, backend!*
 
 - 🌱 **Currently Learning:** Advanced React Router DOM
 - ✨ **Newest Skill:** Tailwind CSS
