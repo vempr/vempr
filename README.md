@@ -7,8 +7,10 @@ I'm very passionate in learning more about web development and aspire to turn it
 - 📫 **Reach Me:** alexnguyena6@gmail.com
 
 ## My Latest Projects
+### [AccountStore App](https://github.com/vempr/rrd-account-app)
+SPA using React Router and Redux Toolkit, see and "buy" mock accounts from JSONPlaceholder API
 ### [Cryptocurrency App](https://github.com/vempr/crypto-app)
-Just finished a significant improvement and redesign of my old cryptocurrency app, enhancing both functionality and aesthetics.
+A significant improvement and redesign of my old cryptocurrency app, enhancing both functionality and aesthetics.
 
 ## My Tech Stack
 - Languages: Python, HTML, CSS, JavaScript
