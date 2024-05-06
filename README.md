@@ -2,8 +2,8 @@
 
 I'm very passionate in learning more about web development and aspire to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects. *Coming for you, backend!*
 
-- 🌱 **Currently Learning:** Advanced React Router DOM
-- ✨ **Newest Skill:** Tailwind CSS
+<!-- - 🌱 **Currently Learning:** Advanced React Router DOM -->
+- ✨ **Newest Skill:** Advanced React Router DOM
 - 📫 **Reach Me:** alexnguyena6@gmail.com
 
 ## My Latest Projects
