@@ -13,8 +13,9 @@ SPA using React Router and Redux Toolkit, see and "buy" mock accounts from JSONP
 A significant improvement and redesign of my old cryptocurrency app, enhancing both functionality and aesthetics.
 
 ## My Tech Stack
-- Languages: Python, HTML, CSS, JavaScript
-- Frontend Frameworks/Libraries: React.js, Tailwind CSS
+- Languages: Python, HTML, JavaScript
+- Frontend Frameworks/Libraries: React.js
+- Styling: CSS3, Tailwind CSS
 - CSR: React Router DOM
 - Type Checking: TypeScript, Zod
 - State Management: Redux Toolkit
