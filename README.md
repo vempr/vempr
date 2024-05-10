@@ -13,6 +13,7 @@ I'm very passionate in learning more about web development and aspire to turn it
 
 ## Languages and Tools
 
+<!-- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
 <img align="left" alt="Git" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Vite" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -25,12 +26,12 @@ I'm very passionate in learning more about web development and aspire to turn it
 <img align="left" alt="React Router DOM" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<!-- <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
+<img align="left" alt="ExpressJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <br /><br />
 
 - Languages: Python, HTML, JavaScript
 - Frontend Frameworks: React.js
-- Backend Development: Node.js
+- Backend Development: Node.js, Express.js
 - Styling: CSS3, Tailwind CSS
 - CSR: React Router DOM
 - Type Checking: TypeScript, Zod
