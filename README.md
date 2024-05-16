@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Alex, an aspiring web developer.
 
-I'm very passionate in learning more about web development and aspire to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects. **Contact Me:** alexnguyena6@gmail.com
+I'm very passionate in learning more about web development and aspire to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects.
 
-<!-- - 🌱 **Currently Learning:** Advanced React Router DOM -->
-<!-- - ✨ **Newest Skill:** Advanced React Router DOM -->
+- 🌱 **Currently Learning:** Backend Fundamentals
+- 📧 **Contact Me:** alexnguyena6@gmail.com
 
 ## My Latest Projects
 ### [AccountStore App](https://github.com/vempr/rrd-account-app)
@@ -25,12 +25,13 @@ I'm very passionate in learning more about web development and aspire to turn it
 <img align="left" alt="React" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="React Router DOM" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" />
 <img align="left" alt="Redux" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<!-- <img align="left" alt="NodeJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="ExpressJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> -->
+<img align="left" alt="NodeJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="ExpressJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <br /><br />
 
 - Languages: Python, HTML, JavaScript
-- Frontend Frameworks: React.js <!-- - Backend Development: Node.js, Express.js -->
+- Frontend Frameworks: React.js
+- Backend Development: Node.js, Express.js
 - Styling: CSS3, Tailwind CSS
 - CSR: React Router DOM
 - Type Checking: TypeScript, Zod
