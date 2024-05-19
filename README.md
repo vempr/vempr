@@ -2,7 +2,10 @@
 
 I'm very passionate in learning more about web development and aspire to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects.
 
-- 🌱 **Currently Learning:** [Express.js Course by Anson The Developer](https://youtu.be/nH9E25nkk3I?si=W8zaJtMzOYIywOl5)
+- 🌱 **Currently Learning:**
+  * [Express.js Course by Anson The Developer](https://youtu.be/nH9E25nkk3I?si=W8zaJtMzOYIywOl5)
+  * [The C Programming Language (2nd Edition)](https://www.pearson.de/c-programming-language-9780133086232)
+
 - 📧 **Contact Me:** alexnguyena6@gmail.com
 
 ## My Latest Projects
