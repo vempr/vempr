@@ -11,7 +11,7 @@ My First Full-Stack Web Application using Express.js and MongoDB
 **[AccountStore App](https://github.com/vempr/rrd-account-app)**<br>
 SPA using React Router and Redux Toolkit, see and "buy" mock accounts from JSONPlaceholder API
 
-**[Cryptocurrency App](https://github.com/vempr/crypto-app)**<br>
+**[crypto-app](https://github.com/vempr/crypto-app)**<br>
 A significant improvement and redesign of my old cryptocurrency web app, enhancing both functionality and aesthetics.
 
 ## Languages and Tools
