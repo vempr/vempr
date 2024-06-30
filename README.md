@@ -2,6 +2,7 @@
 
 I'm very passionate in learning more about web development and aspire to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects.
 
+- 🌱 **Learning**: Remix Framework (ditched Next.js after 1 week)
 - 📧 **Contact Me:** alexnguyena6@gmail.com
 
 ## My Latest Finished Projects
@@ -31,16 +32,17 @@ A significant improvement and redesign of my old cryptocurrency web app, enhanci
 <img align="left" alt="NodeJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="ExpressJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <br /><br />
 
 - Languages: Python, HTML, JavaScript
-- Styling: CSS3, Tailwind CSS
-- CSR: React Router DOM
+- Styling: CSS3, Tailwind CSS, shadcn/ui, Lucide Icons
+- Routing: React Router DOM
 - State Management: Redux Toolkit
 - Frontend Frameworks: React.js
 - Backend Development: Node.js, Express.js
-- Databases: MongoDB
+- Databases: MongoDB, PostgreSQL
 - Type Checking: TypeScript, Zod
 - Visualization: ChartJS
 - Version Control: Git
-- Other Tools: Bash, VSCode, Vite
+- Other Tools: Bash, VSCode, Vite, ThunderClient
