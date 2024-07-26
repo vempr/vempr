@@ -2,7 +2,6 @@
 
 I'm very passionate in learning more about web development and aspire to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects.
 
-- 🌱 **Learning**: Remix Framework (ditched Next.js after 1 week)
 - 📧 **Contact Me:** alexnguyena6@gmail.com
 
 ## My Latest Finished Projects
@@ -36,13 +35,14 @@ A significant improvement and redesign of my old cryptocurrency web app, enhanci
 <br /><br />
 
 - Languages: Python, HTML, JavaScript
-- Styling: CSS3, Tailwind CSS, shadcn/ui, Lucide Icons
+- Styling: CSS3, Tailwind CSS, Lucide Icons
 - Routing: React Router DOM
 - State Management: Redux Toolkit
-- Frontend Frameworks: React.js
+- Frontend Frameworks: React.js, Remix
 - Backend Development: Node.js, Express.js
 - Databases: MongoDB, PostgreSQL
 - Type Checking: TypeScript, Zod
 - Visualization: ChartJS
 - Version Control: Git
+- Hosting: Cloudinary
 - Other Tools: Bash, VSCode, Vite, ThunderClient
