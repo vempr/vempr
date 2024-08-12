@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Alex, an aspiring web developer.
+# Hi there! 👋 I'm Alex, an aspiring software engineer.
 
-I'm very passionate in learning more about web development and aspire to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects.
+I'm very passionate in learning more about SE and want to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects.
 
 📧 **Contact Me:** alexnguyena6@gmail.com
 
@@ -25,14 +25,14 @@ I'm very passionate in learning more about web development and aspire to turn it
 <br /><br />
 
 - Languages: Python, HTML, JavaScript
-- Styling: CSS3, Tailwind CSS, Lucide Icons
+- Styling: CSS3, Tailwind CSS, Lucide Icons, Preline UI, Flowbite Components
 - Routing: React Router DOM
 - State Management: Redux Toolkit
 - Frontend Frameworks: React.js, Remix
 - Backend Development: Node.js, Express.js
-- Databases: MongoDB, PostgreSQL
+- Databases: MongoDB, PostgreSQL, Supabase
 - Type Checking: TypeScript, Zod
 - Visualization: ChartJS
 - Version Control: Git
-- Hosting: Cloudinary (Image Hosting)
+- Hosting: Cloudinary (Image Hosting), Supabase (DB/Auth Server Hosting)
 - Other Tools: Bash, VSCode, Vite, ThunderClient
