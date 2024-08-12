@@ -2,17 +2,7 @@
 
 I'm very passionate in learning more about web development and aspire to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects.
 
-- 📧 **Contact Me:** alexnguyena6@gmail.com
-
-## My Latest Finished Projects
-**[rt-chat](https://github.com/vempr/rt-chat)**<br>
-My First Full-Stack Web Application using Express.js and MongoDB
-
-**[AccountStore App](https://github.com/vempr/rrd-account-app)**<br>
-SPA using React Router and Redux Toolkit, see and "buy" mock accounts from JSONPlaceholder API
-
-**[crypto-app](https://github.com/vempr/crypto-app)**<br>
-A significant improvement and redesign of my old cryptocurrency web app, enhancing both functionality and aesthetics.
+📧 **Contact Me:** alexnguyena6@gmail.com
 
 ## Languages and Tools
 
@@ -44,5 +34,5 @@ A significant improvement and redesign of my old cryptocurrency web app, enhanci
 - Type Checking: TypeScript, Zod
 - Visualization: ChartJS
 - Version Control: Git
-- Hosting: Cloudinary
+- Hosting: Cloudinary (Image Hosting)
 - Other Tools: Bash, VSCode, Vite, ThunderClient
