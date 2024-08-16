@@ -22,6 +22,7 @@ I'm very passionate in learning more about SE and want to turn it into my profes
 <img align="left" alt="ExpressJS" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Supabase" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
 <br /><br />
 
 - Languages: Python, HTML, JavaScript
@@ -30,7 +31,7 @@ I'm very passionate in learning more about SE and want to turn it into my profes
 - State Management: Redux Toolkit
 - Frontend Frameworks: React.js, Remix
 - Backend Development: Node.js, Express.js
-- Databases: MongoDB, PostgreSQL, Supabase
+- Databases: MongoDB, PostgreSQL
 - Type Checking: TypeScript, Zod
 - Visualization: ChartJS
 - Version Control: Git
