@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Alex, an aspiring software engineer.
+# Moin! 👋 I'm Alex, an aspiring software engineer.
 
-I'm very passionate in learning more about SE and want to turn it into my profession one day. My journey in webdev started in early February, and it has been an amazing experience acquiring new skills and building projects.
+I love programming in my free time and want to turn this into my profession one day. I started my coding journey in early 2024, using project-based learning to learn technologies fast and knowing what to use in future projects. 
 
 📧 **Contact Me:** alexnguyena6@gmail.com
 
@@ -26,14 +26,14 @@ I'm very passionate in learning more about SE and want to turn it into my profes
 <br /><br />
 
 - Languages: Python, HTML, JavaScript
-- Styling: CSS3, Tailwind CSS, Lucide Icons, Preline UI, Flowbite Components
+- Type Checking: TypeScript, Zod
+- Styling: CSS3, TailwindCSS, Lucide Icons, Preline UI, Flowbite Components
+- Visualization: ChartJS
 - Routing: React Router DOM
 - State Management: Redux Toolkit
 - Frontend Frameworks: React.js, Remix
 - Backend Development: Node.js, Express.js
-- Databases: MongoDB, PostgreSQL
-- Type Checking: TypeScript, Zod
-- Visualization: ChartJS
+- Database Management Systems: MongoDB, PostgreSQL, Supabase
+- Hosting: Cloudinary
 - Version Control: Git
-- Hosting: Cloudinary (Image Hosting), Supabase (DB/Auth Server Hosting)
-- Other Tools: Bash, VSCode, Vite, ThunderClient
+- DevTools: VSCode, Bash, Vite, ThunderClient, Prettier
