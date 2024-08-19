@@ -1,8 +1,9 @@
-# Moin! 👋 I'm Alex, an aspiring software engineer.
+# Hi, I'm Alex, an aspiring software engineer.
 
-I love programming in my free time and want to turn this into my profession one day. I started my coding journey in early 2024, using project-based learning to learn technologies fast and knowing what to use in future projects. 
+I began my programming journey in early 2024. Through project-based learning, I've been able to quickly grasp different technologies and apply them effectively in future projects. My goal is to turn this passion into a professional career.
 
 📧 **Contact Me:** alexnguyena6@gmail.com
+🛠️ **Currently Building:** [thinking-world](https://github.com/vempr/thinking-world), a calendar web app designed for calculating work income.
 
 ## Languages and Tools
 
@@ -34,6 +35,6 @@ I love programming in my free time and want to turn this into my profession one 
 - Frontend Frameworks: React.js, Remix
 - Backend Development: Node.js, Express.js
 - Database Management Systems: MongoDB, PostgreSQL, Supabase
-- Hosting: Cloudinary
+- Hosting Platforms: Cloudinary
 - Version Control: Git
 - DevTools: VSCode, Bash, Vite, ThunderClient, Prettier
