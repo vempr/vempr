@@ -1,12 +1,12 @@
-# Hi, I'm Alex, an aspiring software engineer.
+# Hi! I'm Alex and currently working on full-stack web apps.
 
-I began my programming journey in early 2024. Through project-based learning, I've been able to quickly grasp different technologies and apply them effectively in future projects. My goal is to turn this passion into a professional career.
+After finishing the 2023 MOOC Python course, I decided to learn more about programming and came across webdev: It turned out to be my perfect balance of designing cool interfaces and building functional APIs, which I've really enjoyed.
 
 📧 **Contact Me:** alexnguyena6@gmail.com
 
 🛠️ **Currently Building:** [thinking-world](https://github.com/vempr/thinking-world), a calendar web app designed for calculating work income.
 
-## Languages and Tools
+## Languages and Tools I've Worked With
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
