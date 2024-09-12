@@ -1,7 +1,5 @@
 # Hi! I'm Alex and currently working on full-stack web apps.
 
-After finishing the 2023 MOOC Python course, I decided to learn more about programming and came across webdev: It turned out to be my perfect balance of designing cool interfaces and building functional APIs, which I've really enjoyed.
-
 📧 **Contact Me:** alexnguyena6@gmail.com
 
 🛠️ **Currently Building:** [thinking-world](https://github.com/vempr/thinking-world), a calendar web app designed for calculating work income.
