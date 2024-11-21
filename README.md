@@ -1,10 +1,8 @@
-# Hi! I'm Alex and currently working on full-stack web apps.
+# Hi! I'm Alex and currently developing full-stack applications.
 
-📧 **Contact Me:** alexnguyena6@gmail.com
+My latest finished project is [Thinking World](https://github.com/vempr/thinking-world) – a lightweight web calendar app designed to help part-time workers calculate their income effortlessly. Feel free to reach out to me via email at alexnguyena6@gmail.com!
 
-🛠️ **Currently Building:** [thinking-world](https://github.com/vempr/thinking-world), a calendar web app designed for calculating work income.
-
-## Languages and Tools I've Worked With
+## Languages and Tools I Build My Projects With
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -26,13 +24,13 @@
 
 - Languages: Python, HTML, JavaScript
 - Type Checking: TypeScript, Zod
-- Styling: CSS3, TailwindCSS, Lucide Icons, Preline UI, Flowbite Components
+- Styling: CSS3, TailwindCSS, Lucide Icons, ShadCN Components
 - Visualization: ChartJS
 - Routing: React Router DOM
 - State Management: Redux Toolkit
 - Frontend Frameworks: React.js, Remix
 - Backend Development: Node.js, Express.js
 - Database Management Systems: MongoDB, PostgreSQL, Supabase
-- Hosting Platforms: Cloudinary
+- Hosting Platforms: Cloudinary, Vercel
 - Version Control: Git
 - DevTools: VSCode, Bash, Vite, ThunderClient, Prettier
