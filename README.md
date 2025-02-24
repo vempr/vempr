@@ -1,18 +1,24 @@
-# Hi! I'm Alex and currently studying full-stack development.
+# Hi! I'm Alex and currently studying backend development.
 
 My latest finished project is [Thinking World](https://github.com/vempr/thinking-world) – a lightweight web calendar app designed to help part-time workers calculate their income effortlessly. Contact me: alexnguyena6@gmail.com
 
-## Languages and Tools I Build My Projects With
+## Current Development Stack For Web Projects
 
-- Languages: Python, HTML, JavaScript
+- Languages: HTML, JavaScript
 - Type Checking: TypeScript, Zod
 - Styling: CSS3, TailwindCSS, Lucide Icons, ShadCN Components
-- Visualization: ChartJS
-- Routing: React Router DOM
-- State Management: Redux Toolkit
-- Frontend Frameworks: React.js, Remix
-- Backend Development: Node.js, Express.js
-- Database Management Systems: MongoDB, PostgreSQL, Supabase
+- Routing: React Router
+- Frameworks: React.js, Remix
+- Database Management Systems: PostgreSQL, Supabase
 - Hosting Platforms: Cloudinary, Vercel
+- Version Control: Git
+
+## Technologies I Am Proficient In
+
+- Languages: Python, Ruby, PHP
+- Visualization: ChartJS
+- State Management: Redux Toolkit
+- Backend Development: Node.js, Express.js
+- Database Management Systems: MongoDB
 - Version Control: Git
 - DevTools: VSCode, Bash, Vite, ThunderClient, Prettier
