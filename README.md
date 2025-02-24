@@ -20,5 +20,4 @@ My latest finished project is [Thinking World](https://github.com/vempr/thinking
 - State Management: Redux Toolkit
 - Backend Development: Node.js, Express.js
 - Database Management Systems: MongoDB
-- Version Control: Git
 - DevTools: VSCode, Bash, Vite, ThunderClient, Prettier
