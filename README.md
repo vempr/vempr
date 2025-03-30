@@ -15,7 +15,7 @@ My latest finished project is [Thinking World](https://github.com/vempr/thinking
 
 ## Technologies I Am Proficient In
 
-- Languages: Python, Ruby, PHP
+- Languages: Python, Ruby, PHP, Go
 - Visualization: ChartJS
 - State Management: Redux Toolkit
 - Backend Development: Node.js, Express.js
