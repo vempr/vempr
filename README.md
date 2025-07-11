@@ -1,6 +1,8 @@
 # Alex, loves kiwis;
 
-Hi :) I've been doing software development in my free time since 2023.
+Hi :)
+
+I've been doing software development in my free time since 2023.
 My current goal is to branch out of web development and explore other fields.
 I plan to study Computer Science in 2027, after graduating high school.
 
