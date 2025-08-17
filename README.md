@@ -1,13 +1,5 @@
 # Alex, loves kiwis;
 
-Hi :)
-
-I've been doing software development in my free time since 2023.
-My current goal is to branch out of web development and explore other fields.
-I plan to study Computer Science in 2027, after graduating high school.
-
-## Finished projects
-
 [Jul 2025] [libsim](https://github.com/vempr/libsim) – a novel collection platform where friends can share their favorite works, built with Laravel
 
 [Nov 2024] [Thinking World](https://github.com/vempr/thinking-world) – a web calendar app designed to help part-time workers calculate their income, built with Remix
